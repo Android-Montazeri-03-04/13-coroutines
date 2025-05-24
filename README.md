@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/4bcd1fb5-269e-428f-975a-bce61801b5fb)
+
+
 # آموزش خیلی ساده: Thread و Coroutine
 
 
